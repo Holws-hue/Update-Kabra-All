@@ -12,11 +12,6 @@
       "Size": 46768102
     },
     {
-      "Path": "mi_icono.ico",
-      "Hash": "2d707c16c62a6946e79a741b7f445368",
-      "Size": 4113
-    },
-    {
       "Path": "resources/client_strings.json",
       "Hash": "ba46e9e3f2c07bacf8fa27b1638a6011",
       "Size": 46979,
