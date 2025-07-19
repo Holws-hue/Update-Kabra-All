@@ -1,6 +1,6 @@
 ﻿{
-  "Host": "localhost",
-  "Port": 5400,
+  "Host": "paris-stevens.gl.at.ply.gg",
+  "Port": 19547,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
   "ChatBubbleFont": "sourcesansproblack",
@@ -12,7 +12,12 @@
     "1.png",
     "2.png",
     "3.png",
-    "4.png"
+    "4.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png"
   ],
   "MenuBackgroundDisplayMode": "Default",
   "MenuBackgroundFrameInterval": 50,
@@ -20,7 +25,7 @@
     "splash2.png",
     "logo.png"
   ],
-  "UpdateUrl": "",
+  "UpdateUrl": "https://holws-hue.github.io/Update-Kabra-All/",
   "MouseCursor": "1.png",
   "MusicFadeTimer": 1500,
   "FadeDurationMs": 3000.0,
