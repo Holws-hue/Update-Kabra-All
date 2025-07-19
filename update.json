@@ -42514,6 +42514,26 @@
       "Size": 1051743,
       "ClientIgnore": true
     },
+    {
+      "Path": "resources/updater/background.png",
+      "Hash": "c2d0f8f6591f091717127a6c044929f8",
+      "Size": 227300
+    },
+    {
+      "Path": "resources/updater/font.xnb",
+      "Hash": "3f4b8382659011d39e31c504ddeab8b2",
+      "Size": 689774
+    },
+    {
+      "Path": "resources/updater/fontsmall.xnb",
+      "Hash": "8bf12b074d982df36d38b6f8906b7111",
+      "Size": 423534
+    },
+    {
+      "Path": "resources/updater/progressbar.png",
+      "Hash": "bbc858957ccd3da0ddaa8b4cc7941cf0",
+      "Size": 23798
+    }
   ],
   "TrustCache": true
 }
